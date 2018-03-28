@@ -1,0 +1,9 @@
+c:\users\dani\documents\visual studio 2015\Projects\Proyecto_Consola\Proyecto_Consola\bin\Debug\Proyecto_Consola.exe.config
+c:\users\dani\documents\visual studio 2015\Projects\Proyecto_Consola\Proyecto_Consola\bin\Debug\Proyecto_Consola.exe
+c:\users\dani\documents\visual studio 2015\Projects\Proyecto_Consola\Proyecto_Consola\bin\Debug\Proyecto_Consola.pdb
+c:\users\dani\documents\visual studio 2015\Projects\Proyecto_Consola\Proyecto_Consola\obj\Debug\Proyecto_Consola.csprojResolveAssemblyReference.cache
+c:\users\dani\documents\visual studio 2015\Projects\Proyecto_Consola\Proyecto_Consola\obj\Debug\Proyecto_Consola.Form1.resources
+c:\users\dani\documents\visual studio 2015\Projects\Proyecto_Consola\Proyecto_Consola\obj\Debug\Proyecto_Consola.Properties.Resources.resources
+c:\users\dani\documents\visual studio 2015\Projects\Proyecto_Consola\Proyecto_Consola\obj\Debug\Proyecto_Consola.csproj.GenerateResource.Cache
+c:\users\dani\documents\visual studio 2015\Projects\Proyecto_Consola\Proyecto_Consola\obj\Debug\Proyecto_Consola.exe
+c:\users\dani\documents\visual studio 2015\Projects\Proyecto_Consola\Proyecto_Consola\obj\Debug\Proyecto_Consola.pdb
